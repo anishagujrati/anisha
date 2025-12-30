@@ -1,2 +1,3 @@
 # anisha
-thus us my first repository
+this us my first repository
+Author-Anisha
